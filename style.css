@@ -10,3 +10,22 @@ h1 {
 #logo {
   float: right;
 }
+body{
+  background-color: #FFC0CB;
+  color: black
+font size: 70px
+}
+
+p{
+  font-size: 30px;
+}
+
+.center{
+
+  width:600px;
+  height:600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
